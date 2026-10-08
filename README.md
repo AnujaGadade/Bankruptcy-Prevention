@@ -38,5 +38,16 @@ Non-Bankruptcy
 
 The target variable was converted into numerical form:
 
+🤖 Machine Learning Models
+
+Six classification algorithms were implemented:
+
+Logistic Regression
+Decision Tree
+Random Forest
+K-Nearest Neighbors (KNN)
+Support Vector Machine (SVM)
+Gaussian Naive Bayes
+
 Bankruptcy → 1
 Non-Bankruptcy → 0
