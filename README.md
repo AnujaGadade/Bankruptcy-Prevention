@@ -8,6 +8,9 @@ The project analyzes different business risk and financial strength factors and 
 
 The project includes Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning Model Building, Model Comparison, Cross-Validation, Feature Importance, ROC-AUC evaluation, and Model Deployment.
 
+🚀 **Live Demo**
+http://localhost:8501/
+
 **🛠️ Tools & Technologies Used**
 
 Programming Language: Python
