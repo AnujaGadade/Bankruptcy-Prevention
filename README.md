@@ -1,0 +1,42 @@
+Bankruptcy-Prevention
+
+📌 Project Overview
+
+This project focuses on predicting whether a company is likely to be bankrupt or non-bankrupt using Machine Learning classification techniques.
+
+The project analyzes different business risk and financial strength factors and uses them to predict the financial condition of a company.
+
+The project includes Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning Model Building, Model Comparison, Cross-Validation, Feature Importance, ROC-AUC evaluation, and Model Deployment.
+
+🛠️ Tools & Technologies Used
+
+Programming Language: Python
+
+Libraries: Pandas, NumPy (Data Handling)
+
+Matplotlib, Seaborn (Data Visualization)
+
+Scikit-learn (Machine Learning)
+
+Pickle (Model Deployment)
+
+📊 Dataset
+
+The dataset contains information about companies based on six major factors:
+
+Industrial Risk
+Management Risk
+Financial Flexibility
+Credibility
+Competitiveness
+Operating Risk
+
+The target variable is:
+
+Bankruptcy
+Non-Bankruptcy
+
+The target variable was converted into numerical form:
+
+Bankruptcy → 1
+Non-Bankruptcy → 0
